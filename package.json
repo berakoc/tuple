@@ -1,0 +1,29 @@
+{
+  "name": "tuple",
+  "version": "1.0.0",
+  "description": "A tuple data type for JavaScript",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  },
+  "scripts": {
+    "test": "ejst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedBeraKoc/tuple.git"
+  },
+  "keywords": [
+    "tuple",
+    "data-structure",
+    "immutable",
+    "library"
+  ],
+  "author": "Bera Koc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammedBeraKoc/tuple/issues"
+  },
+  "homepage": "https://github.com/MuhammedBeraKoc/tuple#readme"
+}

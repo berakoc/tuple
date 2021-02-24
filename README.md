@@ -1,2 +1,2 @@
 # tuple
-A tuple structure for JavaScript
+A tuple data type for JavaScript
